@@ -9,7 +9,7 @@
     <groupId>com.wakaleo.gameoflife</groupId>
     <artifactId>gameoflife-web</artifactId>
     <packaging>war</packaging>
-    <name>gameoflife-web</name>
+    <name>gameoflife-web-shreee</name>
 
     <properties>
         <jetty.port>9090</jetty.port>
